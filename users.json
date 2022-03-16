@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "john",
+      "category": "finance",
+      "email": "john@knightec.com",
+      "supervisor": false
+    },
+    {
+      "id": 2,
+      "name": "kalate",
+      "category": "finance",
+      "email": "kalate@knightec.com",
+      "supervisor": true
+    },
+    {
+      "id": 3,
+      "name": "lisa",
+      "category": "finance",
+      "email": "lisa@knightec.com",
+      "supervisor": false
+    },
+    {
+      "id": 4,
+      "name": "simon",
+      "category": "it",
+      "email": "simon@knightec.com",
+      "supervisor": false
+    },
+    {
+      "id": 5,
+      "name": "niklas",
+      "category": "it",
+      "email": "niklas@knightec.com",
+      "supervisor": true
+    },
+    {
+      "id": 6,
+      "name": "filip",
+      "category": "it",
+      "email": "filip@knightec.com",
+      "supervisor": false
+    },
+    {
+      "id": 7,
+      "name": "joakim",
+      "category": "it",
+      "email": "joakim@knightec.com",
+      "supervisor": true
+    },
+    {
+      "id": 8,
+      "name": "sandra",
+      "category": "hr",
+      "email": "sandra@knightec.com",
+      "supervisor": false
+    },
+    {
+      "id": 9,
+      "name": "marie",
+      "category": "hr",
+      "email": "marie@knightec.com",
+      "supervisor": true
+    },
+    {
+      "id": 10,
+      "name": "vi",
+      "category": "hr",
+      "email": "vi@knightec.com",
+      "supervisor": false
+    },
+    {
+      "id": 11,
+      "name": "alex",
+      "category": "management",
+      "email": "alex@knightec.com",
+      "supervisor": true
+    },
+    {
+      "id": 12,
+      "name": "patrik",
+      "category": "management",
+      "email": "patrik@knightec.com",
+      "supervisor": true
+    },
+    {
+      "id": 13,
+      "name": "petter",
+      "category": "management",
+      "email": "petter@knightec.com",
+      "supervisor": true
+    }
+  ]
+}

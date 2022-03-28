@@ -62,19 +62,22 @@ Icons are placed under `src/assets/icons`
 - yarn
 
 ## Clone the repository ##
-In your VSCode terminal, run: `git clone https://github.com/joakimsq/code_test.git`
+In your VSCode terminal, run: `git clone https://github.com/joakimsq/code_test_react.git`
 
 ### 1: Install the application ###
 
 In the project directory - run:
 
-`yarn install`
+`npm install`
+
+### 2: Install JSON-Server ###
+
 `npm install json-server --global`
 
-### 2: Start Frontend ###
+### 3: Start Frontend ###
 
 `yarn start`
 
-### 3: Start Backend ### 
+### 4: Start Backend ### 
 
 `json-server --watch db.json --port 8000`

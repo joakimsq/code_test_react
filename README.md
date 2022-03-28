@@ -77,6 +77,6 @@ In the project directory - run:
 
 `npn run start`
 
-### 4: Start Backend ### 
+### 4: Start Backend (In a separate terminal) ### 
 
 `json-server --watch db.json --port 8000`

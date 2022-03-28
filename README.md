@@ -58,8 +58,7 @@ Icons are placed under `src/assets/icons`
 ## Technical requirements: ##
 - git
 - VSCode (or other code editor)
-- nodeJS
-- yarn
+- node & npm
 
 ## Clone the repository ##
 In your VSCode terminal, run: `git clone https://github.com/joakimsq/code_test_react.git`

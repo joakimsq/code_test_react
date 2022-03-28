@@ -75,7 +75,7 @@ In the project directory - run:
 
 ### 3: Start Frontend ###
 
-`yarn start`
+`npn run start`
 
 ### 4: Start Backend ### 
 

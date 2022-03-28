@@ -4,84 +4,84 @@
       "id": 1,
       "name": "john",
       "category": "finance",
-      "email": "john@knightec.com",
+      "email": "john@example.com",
       "supervisor": false
     },
     {
       "id": 2,
       "name": "kalate",
       "category": "finance",
-      "email": "kalate@knightec.com",
+      "email": "kalate@example.com",
       "supervisor": true
     },
     {
       "id": 3,
       "name": "lisa",
       "category": "finance",
-      "email": "lisa@knightec.com",
+      "email": "lisa@example.com",
       "supervisor": false
     },
     {
       "id": 4,
       "name": "simon",
       "category": "it",
-      "email": "simon@knightec.com",
+      "email": "simon@example.com",
       "supervisor": false
     },
     {
       "id": 5,
       "name": "niklas",
       "category": "it",
-      "email": "niklas@knightec.com",
+      "email": "niklas@example.com",
       "supervisor": true
     },
     {
       "id": 6,
       "name": "filip",
       "category": "it",
-      "email": "filip@knightec.com",
+      "email": "filip@example.com",
       "supervisor": false
     },
     {
       "id": 7,
       "name": "joakim",
       "category": "it",
-      "email": "joakim@knightec.com",
+      "email": "joakim@example.com",
       "supervisor": true
     },
     {
       "id": 8,
       "name": "sandra",
       "category": "hr",
-      "email": "sandra@knightec.com",
+      "email": "sandra@example.com",
       "supervisor": false
     },
     {
       "id": 9,
       "name": "marie",
       "category": "hr",
-      "email": "marie@knightec.com",
+      "email": "marie@example.com",
       "supervisor": true
     },
     {
       "id": 10,
       "name": "vi",
       "category": "hr",
-      "email": "vi@knightec.com",
+      "email": "vi@example.com",
       "supervisor": false
     },
     {
       "id": 11,
       "name": "alex",
       "category": "management",
-      "email": "alex@knightec.com",
+      "email": "alex@example.com",
       "supervisor": true
     },
     {
       "id": 12,
       "name": "patrik",
       "category": "management",
-      "email": "patrik@knightec.com",
+      "email": "patrik@example.com",
       "supervisor": true
     }
   ]
